@@ -2,6 +2,9 @@
 
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
+## [2026.09.29] - 2026-09-29
+- Actualización de certificado vencido
+
 ## [2025.06.14] - 2025-06-14
 
 ### Nuevas características
